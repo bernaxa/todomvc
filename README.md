@@ -12,4 +12,4 @@ Al ejecutar la tarea de test de Gradle, Selenium levantará un Chrome usando el 
 * Completar una tarea
 * Borrar las tareas completadas
 
-![Todomvc Tests](./todomvc-tests.gif)
+
